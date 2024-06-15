@@ -1,0 +1,22 @@
+{
+  "name": "portfoliodm",
+  "version": "1.0.0",
+  "description": "full stack web developer portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch src/scss:build/css",
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "JS",
+    "CSS",
+    "SASS",
+    "PHP"
+  ],
+  "author": "Dalia Mercado",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.5"
+  }
+}
